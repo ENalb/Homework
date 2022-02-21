@@ -1,0 +1,1 @@
+print("Emi dan leg dir lsenq")
